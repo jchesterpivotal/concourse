@@ -81,8 +81,8 @@ const (
 	GetLogLevel = "GetLogLevel"
 
 	DownloadCLI  = "DownloadCLI"
-	GetInfo      = "Info"
-	GetInfoCreds = "InfoCreds"
+	GetInfo      = "GetInfo"
+	GetInfoCreds = "GetInfoCreds"
 
 	ListContainers           = "ListContainers"
 	GetContainer             = "GetContainer"
